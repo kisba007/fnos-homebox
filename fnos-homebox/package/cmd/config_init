@@ -1,0 +1,3 @@
+#!/bin/bash
+# config_init 生命周期占位脚本
+exit 0

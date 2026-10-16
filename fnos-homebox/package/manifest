@@ -1,0 +1,16 @@
+appname=homebox
+version=1.0.0
+display_name=Homebox
+desc=家庭网络工具箱。用于组建家庭局域网时，对网络进行调试、检测、测速、压测的工具集合。<br>支持单次测速与持续压测，浏览器即开即用，高达 10G 测速，自带 Ping 检测与丰富测速参数。<br><br><strong>直装版说明：</strong>本包为 GitHub 开源项目 XGHeaven/homebox 的官方 Linux 二进制直装打包，非 Docker 版本，无需容器环境即可运行。<br>默认监听端口 3300，安装后可在桌面点击 Homebox 图标打开测速页面。<br><strong>打包仓库：</strong><a href="https://github.com/kisba007/fnos-homebox">github.com/kisba007/fnos-homebox</a><br>本应用由第三方打包，与飞牛官方无关。
+platform=x86
+source=thirdparty
+maintainer=XGHeaven
+maintainer_url=https://github.com/XGHeaven/homebox
+distributor=Kinyo
+distributor_url=https://github.com/kisba007/fnos-homebox
+service_port=3300
+checkport=true
+os_min_version=0.9.0
+desktop_uidir=ui
+desktop_applaunchname=homebox.main
+ctl_stop=true

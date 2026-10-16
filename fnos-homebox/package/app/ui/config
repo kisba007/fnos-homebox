@@ -1,0 +1,13 @@
+{
+    ".url": {
+        "homebox.main": {
+            "title": "Homebox",
+            "icon": "images/icon-{0}.png",
+            "type": "url",
+            "protocol": "http",
+            "port": "3300",
+            "url": "/",
+            "allUsers": true
+        }
+    }
+}

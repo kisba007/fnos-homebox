@@ -1,0 +1,19 @@
+[
+    {
+        "stepTitle": "安装说明",
+        "items": [
+            {
+                "type": "tips",
+                "helpText": "Homebox 家庭网络工具箱（GitHub 开源项目 XGHeaven/homebox）原生直装版，非 Docker，无需容器环境。<br>用于家庭局域网调试、检测、测速与持续压测，浏览器即开即用。"
+            },
+            {
+                "type": "tips",
+                "helpText": "安装后默认监听端口 <strong>3300</strong>，启动后可在桌面点击 Homebox 图标访问测速页面，或通过浏览器访问 http://<NAS地址>:3300 。"
+            },
+            {
+                "type": "tips",
+                "helpText": "应用为第三方打包（直装二进制），与飞牛官方无关。项目无独立 LICENSE 文件，版权归原作者 XGHeaven 所有，如遇使用问题请勿向飞牛官方反馈。<br>打包仓库：<a href=\"https://github.com/kisba007/fnos-homebox\">github.com/kisba007/fnos-homebox</a>"
+            }
+        ]
+    }
+]
